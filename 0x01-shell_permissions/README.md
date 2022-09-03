@@ -10,3 +10,4 @@ script that sets the permission to the file
 script that sets the mode of the file hello the same as olleh’s mode.
 9. John Doe
 11-directories_permissions
+12-directory_permissions
