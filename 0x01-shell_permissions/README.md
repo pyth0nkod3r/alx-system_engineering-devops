@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-## 0x00. Shell, basics
+Create a script that switches the current user to the user betty.
