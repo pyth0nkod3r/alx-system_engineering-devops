@@ -18,3 +18,4 @@ chown -hR vincent:staff
 12-directory_permissions
 13-change_group
 chown -hR vincent:staff
+101-symbolic_link_permissions
