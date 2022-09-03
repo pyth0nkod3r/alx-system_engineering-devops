@@ -14,3 +14,4 @@ script that sets the mode of the file hello the same as olleh’s mode.
 13-change_group
 chown -hR vincent:staff
 9. John Doe
+11-directories_permissions
