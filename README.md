@@ -5,3 +5,10 @@ Create a script that deletes all files in the current working directory that end
 Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 Write a command that lists all the files and directories of the current directory, separated by commas (,).
  School task
+Hello, World
+\"(Ôo)"
+2. Groups
+Display the content of /etc/passwd and /etc/hosts
+4. Empty!
+5. Execute
+6. Multiple permissions
