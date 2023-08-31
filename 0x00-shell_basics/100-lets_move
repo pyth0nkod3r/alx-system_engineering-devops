@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -n [capital_letter]* /tmp/u
+cp -n ./[capital_letter]* /tmp/u
