@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 --quoting-style=csv | sort -t, -k1,1n -k2,2n
+ls -1 --quoting-style=csv | sort -t, -k1,1n -k2,2n | sed 's/^.//' | sed '$a\n'
